@@ -15,7 +15,7 @@ It helps teams to organize tasks, assign users, and manage progress using a clea
 
 ---
 
-##  Join – Team Task Manager
+## 🧠 Join – Team Task Manager
 
 Join ist eine webbasierte Task-Management-App, inspiriert von Tools wie Trello oder Jira.  
 Sie hilft Teams dabei, Aufgaben zu organisieren, Benutzern zuzuweisen und Fortschritt mit einem übersichtlichen Drag-&-Drop-Board zu verwalten.
